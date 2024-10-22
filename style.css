@@ -2174,6 +2174,9 @@ footer{
         top: 70%;
         width: 6%;
     }
+    .category{
+        transform: translateY(3vh);
+    }
     .container-2{
         width: 90%;
     }
@@ -2403,7 +2406,7 @@ footer{
     }
     .test-comment{
         width: 100%;
-        height: 40%;
+        height: 45%;
         padding-block: 30px;
     }
     .test-comment-txt{
@@ -2412,7 +2415,7 @@ footer{
     }
     .test-comment-profile{
         width: 70%;
-        height: 35%;
+        height: 40%;
     }
     .test-comment-profile-txt{
         width: 60%;
@@ -2420,8 +2423,8 @@ footer{
         text-align: center;
     }
     .test-comment-profile-img{
-        width: 35%;
-        height: 90%;
+        width: 37%;
+        height: 70%;
     }
     .test-comment-quote-img{
         display: none;
